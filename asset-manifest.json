@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kseniashvydko/testReact/static/css/main.9e9434d1.css",
+    "main.js": "/kseniashvydko/testReact/static/js/main.a3dbcbe2.js",
+    "index.html": "/kseniashvydko/testReact/index.html",
+    "main.9e9434d1.css.map": "/kseniashvydko/testReact/static/css/main.9e9434d1.css.map",
+    "main.a3dbcbe2.js.map": "/kseniashvydko/testReact/static/js/main.a3dbcbe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9434d1.css",
+    "static/js/main.a3dbcbe2.js"
+  ]
+}
